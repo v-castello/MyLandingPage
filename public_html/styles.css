@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+    color: #333;
+}
+header {
+    padding: 20px;
+    background-color: #4CAF50;
+    color: white;
+}
+.btn {
+    background-color: #FF5733;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+}
